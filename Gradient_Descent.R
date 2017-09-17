@@ -1,7 +1,8 @@
 ###: Gradient Descent on dataset from Stanford ML course ('ex1data1')
 
 df <- read.csv('ex1data1.txt')
-n <- length(X)
+attach(df)
+n <- length(df)
 ones <- rep(1,n)
 df <- cbind(df,ones)
 colnames(df) <- c("Population","Profit","Ones")
