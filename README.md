@@ -1,6 +1,6 @@
 # Gradient Descent in R
 
-Performing gradient descent from scratch w/ R on same dataset used in first 'linear_regression' repo w/ Python.
+Learning function syntax with gradient descent from scratch in R. 
 All math equations are provided in the lecture notes of Professor Ng's Machine Learning Course.
 
 ## Technologies Used:
